@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "Merriweather", serif;
+  font-family: 'Work Sans', sans-serif;
   background-color: #ebf2ff;
 }
 
@@ -78,10 +78,14 @@ body {
 }
 
 .explore__menu__text {
+  background-color: #ebf2ff;
+  
+  width: 100%;
   font-size: 30px;
-  margin-top: 50px;
-  margin-bottom: 25px;
+  margin: auto;
+  align-content: left;
   text-align: center;
+  border-radius: 5px;
 }
 
 .food__card {
